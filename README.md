@@ -1,4 +1,4 @@
-# Node.js-Expess-MongoDB-RESTAPI
+# Node.js-Expess-MongoDB-SHOPPING RESTAPI
 
 Content discussed : 
  - Modular API development 
